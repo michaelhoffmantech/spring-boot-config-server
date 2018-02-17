@@ -15,7 +15,7 @@ I used the following at http://start.spring.io to create the Config Server appli
 * Package Name = com.scmc.bootdemo.config
 * Packaging = JAR
 * Java Version = 1.8
-* Dependencies = Config Server 
+* Dependencies = Config Server, Actuator 
 
 # 2 - Config Server Updates
 
